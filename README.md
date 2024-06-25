@@ -1,2 +1,2 @@
 # My-projects
-This is my internship projects
+This are my internship projects
